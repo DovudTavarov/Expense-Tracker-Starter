@@ -1,1 +1,1 @@
-* Expense tracker DOM app
+# Expense tracker DOM app
